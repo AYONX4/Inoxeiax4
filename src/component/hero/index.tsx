@@ -10,7 +10,7 @@ function HeroSectionDemo() {
       }}
       description="AI that lives on your screen but stays invisible on video calls. Perfect for coding, demos, or interviews without distractions (or getting caught)."
       ctaText="Download for pc  "
-      ctaHref="/signup"
+      ctaHref="/download"
       bottomImage={{
         light: "/inoxeia.png",
         dark: "/inoxeia.png",
